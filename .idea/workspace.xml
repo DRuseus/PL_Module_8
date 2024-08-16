@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d9470b-0da0-4b60-a172-64e676cc5ecf" name="Changes" comment="Сделано практическое задание по теме &quot;Try и Except&quot;.">
-      <change afterPath="$PROJECT_DIR$/Module_8_2/module_8_2.py" afterDir="false" />
+    <list default="true" id="97d9470b-0da0-4b60-a172-64e676cc5ecf" name="Changes" comment="Сделано практическое задание по теме &quot;Сложные моменты и исключения в стеке вызовов функции&quot;.">
+      <change afterPath="$PROJECT_DIR$/Module_8_3/module_8_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.module_8_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_8_2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.module_8_1.executor": "Run",
+    "Python.module_8_2.executor": "Run",
+    "Python.module_8_3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1723469694292</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сделано практическое задание по теме &quot;Сложные моменты и исключения в стеке вызовов функции&quot;.">
+      <option name="closed" value="true" />
+      <created>1723719672664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723719672664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделано практическое задание по теме &quot;Try и Except&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделано практическое задание по теме &quot;Try и Except&quot;." />
+    <MESSAGE value="Сделано практическое задание по теме &quot;Сложные моменты и исключения в стеке вызовов функции&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано практическое задание по теме &quot;Сложные моменты и исключения в стеке вызовов функции&quot;." />
   </component>
 </project>
